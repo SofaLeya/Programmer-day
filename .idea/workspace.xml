@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="880232df-7a93-4661-b674-294c36329703" name="Changes" comment="Вроде работает">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="880232df-7a93-4661-b674-294c36329703" name="Changes" comment="Вроде работает, дубль два" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,11 +59,19 @@
       <option name="project" value="LOCAL" />
       <updated>1669993242118</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Вроде работает, дубль два">
+      <created>1669993694720</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669993694720</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Вроде работает" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вроде работает" />
+    <MESSAGE value="Вроде работает, дубль два" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вроде работает, дубль два" />
   </component>
 </project>
